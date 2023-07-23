@@ -4,7 +4,7 @@ Convert inches to centimeters and vice versa
 1. Convert inches to centimeters and vice versa<br>
   Just write an value according to the pattern:<br>
     1in - for inches<br>
-    1cn - for centimeters.<br>
+    1cm - for centimeters.<br>
   Program detect typed value and type and convert it.
 2. Diagonal of the rectangle<BR>
   Type A and B and take result, its not a magic.
